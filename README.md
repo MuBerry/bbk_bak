@@ -1,6 +1,7 @@
 # BBK-Script
 ```
 原仓库地址：https://git.aproplus.top/bbk/bbk.git
+ql repo https://git.aproplus.top/bbk/bbk.git "a_" "NoUsed" "BBK" "master" "sh|bbk"
 ```
 
 点击查看：[bbk食用方法](bbk_tg.md) 
