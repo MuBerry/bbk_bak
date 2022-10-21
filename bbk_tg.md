@@ -10,7 +10,7 @@
 >
 > 200元40,000log，不支持退款！！！
 
-运行脚本前先到机器人：[https://t.me/TBodyBot](https://t.me/TBodyBot?start=4c3c62f8c384bc12099cf99950659503) 获取token（含邀请链接，介意勿用），默认token次数为0
+运行脚本前先到机器人：[TBodyBot](https://t.me/TBodyBot?start=4c3c62f8c384bc12099cf99950659503) 获取token（含邀请链接，介意勿用），默认token次数为0
 
 目前BBK脚本只适配的机器架构为：linux-386(x86)、linux-amd64、linux-arm、linux-arm64 请选择适合自己机器的BBK文件
 
