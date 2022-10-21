@@ -9,6 +9,7 @@ RepoFileExtensions="js py ts sh bbk"
 
 2.拉库地址：
 ql repo https://github.com/MuBerry/bbk_bak.git "a_" "NoUsed" "BBK" "master" "sh|bbk"
+```
 
 
 #### 本仓库之中所有脚本以及配置纯属自用备份
