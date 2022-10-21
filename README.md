@@ -1,5 +1,15 @@
 # BBK-Script
+```
 原仓库地址：https://git.aproplus.top/bbk/bbk.git
+```
+```
+本仓库拉库方法
+1.配置文件修改：
+RepoFileExtensions="js py ts sh bbk"
+
+2.拉库地址：
+ql repo https://github.com/MuBerry/bbk_bak.git "a_" "NoUsed" "BBK" "master" "sh|bbk"
+
 
 #### 本仓库之中所有脚本以及配置纯属自用备份
 ## 免责声明
