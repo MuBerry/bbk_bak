@@ -1,4 +1,5 @@
 # BBK-Script
+原仓库地址：https://git.aproplus.top/bbk/bbk.git
 
 #### 本仓库之中所有脚本以及配置纯属自用备份
 ## 免责声明
