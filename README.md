@@ -2,6 +2,9 @@
 ```
 原仓库地址：https://git.aproplus.top/bbk/bbk.git
 ```
+
+[bbk食用方法](bbk_tg.md) 
+
 ```
 本仓库拉库方法
 1.配置文件修改：
